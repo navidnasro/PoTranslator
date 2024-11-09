@@ -1,0 +1,15 @@
+# Ignore the build directory and its contents
+build/
+
+# Ignore the build.xml file
+build.xml
+
+# Ignore the manifest.mf file
+manifest.mf
+
+# Ignore the nbproject directory and its contents
+nbproject/
+
+# Ignore the test directory and its contents
+test/
+
